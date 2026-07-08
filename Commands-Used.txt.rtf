@@ -1,0 +1,23 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf0 enable\
+configure terminal\
+hostname ASR1001-X\
+\
+interface GigabitEthernet0/0/0\
+ip address 192.168.30.10 255.255.255.0\
+no shutdown\
+\
+ip ssh version 2\
+crypto key generate rsa modulus 2048\
+\
+show ip interface brief\
+show running-config\
+show version\
+write memory}
