@@ -1,0 +1,10 @@
+Managed Switch 
+
+Created VLAN10
+• Created VLAN20
+• Configured tagged uplink port
+• Configured untagged access ports
+• Assigned Dell to VLAN10
+• Assigned Mac to VLAN20
+• Assigned ASR to VLAN20
+• Saved switch configuration
