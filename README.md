@@ -41,12 +41,26 @@ This project demonstrates a home lab built with FortiGate 40F, Cisco ASR1001-X, 
 - Troubleshooting
 - GitHub Documentation
 
-## Screenshots 
--Network Topology 
--Quic Service 
--QUIC Block Rule 
--FortiGate Logs
--Facebook Bloc Test 
+
+## Screenshots
+
+### Network Topology
+![Network Topology](network-topology.pdf)
+
+### QUIC Service
+![QUIC Service](quic-service.png)
+
+### QUIC Block Rule
+![QUIC Block Rule](quic-block-rule.png)
+
+### FortiGate Logs
+![FortiGate Logs](FortiGate-logs.png)
+
+### Facebook Block Test
+![Facebook Block Test](facebook-block-test.png)
+
+
+
 
 ## Author
 Mina
