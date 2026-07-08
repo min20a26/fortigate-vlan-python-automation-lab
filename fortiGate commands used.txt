@@ -1,0 +1,11 @@
+FortiGate Commands used 
+
+• Created VLAN10 interface
+• Created VLAN20 interface
+• Configured VLAN IP addresses
+• Created firewall policies
+• Allowed VLAN10 → VLAN20
+• Denied VLAN20 → VLAN10
+• Allowed Internet access
+• Configured SSH access
+• Enabled logging
