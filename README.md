@@ -45,7 +45,7 @@ This project demonstrates a home lab built with FortiGate 40F, Cisco ASR1001-X, 
 ## Screenshots
 
 ### Network Topology
-![Network Topology](network-topology.pdf)
+![Network Topology](network-topology.png)
 
 ### QUIC Service
 ![QUIC Service](quic-service.png)
